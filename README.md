@@ -2,4 +2,6 @@
  
 # Clone of yandex metro app
 
-Now it's without Gui. Work is progress...
+SPF algorith works.
+
+But now it's without Gui. Work is progress...
